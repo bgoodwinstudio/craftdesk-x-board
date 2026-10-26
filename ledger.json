@@ -1,0 +1,25 @@
+{
+  "tracking_start": "2026-10-25",
+  "days": {
+    "2026-10-25": {
+      "@Codie_Sanchez": {
+        "name": "Codie Sanchez",
+        "hits": 7,
+        "best": 141851,
+        "views": 276861
+      },
+      "@tdinh_me": {
+        "name": "Tony Dinh",
+        "hits": 2,
+        "best": 14785,
+        "views": 24988
+      },
+      "@arvidkahl": {
+        "name": "Arvid Kahl",
+        "hits": 2,
+        "best": 8336,
+        "views": 16359
+      }
+    }
+  }
+}

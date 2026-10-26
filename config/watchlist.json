@@ -1,0 +1,19 @@
+{
+  "timezone": "America/New_York",
+  "min_views": 5000,
+  "star_views": 10000,
+  "operator": "CraftDeskApp",
+  "niche": "software for handmade market vendors (craft fairs, farmers markets, pop-ups)",
+  "accounts": [
+    {"handle": "Codie_Sanchez", "notes": "Main Street small-business stories"},
+    {"handle": "Square", "notes": "the POS most market vendors use"},
+    {"handle": "Shopify", "notes": "selling beyond the booth"},
+    {"handle": "thepatwalls", "notes": "Starter Story small-business breakdowns"},
+    {"handle": "tdinh_me", "notes": "solo builder of calm, simple software"},
+    {"handle": "arvidkahl", "notes": "bootstrapped SaaS and build-in-public"}
+  ],
+  "competitors": [
+    {"handle": "HipopMarkets", "notes": "HiPop, vendor/market marketplace. Flag any new post in the digest regardless of views."},
+    {"handle": "BoothKeeper", "notes": "BoothKeeper, craft-show vendor tools. Flag any new post in the digest regardless of views."}
+  ]
+}
