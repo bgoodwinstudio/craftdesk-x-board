@@ -160,6 +160,32 @@
         "best": 5163,
         "views": 5163
       }
+    },
+    "2026-11-04": {
+      "@Codie_Sanchez": {
+        "name": "Codie Sanchez",
+        "hits": 7,
+        "best": 60708,
+        "views": 248168
+      },
+      "@tdinh_me": {
+        "name": "Tony Dinh",
+        "hits": 4,
+        "best": 17799,
+        "views": 43075
+      },
+      "@arvidkahl": {
+        "name": "Arvid Kahl",
+        "hits": 4,
+        "best": 13526,
+        "views": 32950
+      },
+      "@thepatwalls": {
+        "name": "Pat Walls",
+        "hits": 1,
+        "best": 5705,
+        "views": 5705
+      }
     }
   }
 }
