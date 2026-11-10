@@ -1,8 +1,8 @@
 {
   "title": "Daily X digest for @CraftDeskApp · 2026-11-09",
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "timezone": "America/New_York",
-  "updated": "2026-11-09T06:35:00-05:00",
+  "updated": "2026-11-10T06:21:37-05:00",
   "brand_title": "CraftDesk X Virality Score",
   "brand_handle": "@CraftDeskApp",
   "operator": {
@@ -28,259 +28,112 @@
     "no_hits_reasons": true,
     "marker_class": "xvs-dash-2026"
   },
-  "window": "originals posted ~2026-11-06 06:00 ET to 2026-11-09 06:20 ET (Monday run covers the weekend; digest pull since last refresh Nov 6 06:16 ET)",
+  "window": "originals posted ~2026-11-09 06:18 ET to 2026-11-10 06:20 ET (digest pull since last refresh Nov 9 06:18 ET)",
   "min_views": 5000,
   "star_views": 10000,
   "hits": [
     {
       "name": "Codie Sanchez",
       "handle": "@Codie_Sanchez",
-      "views": 371532,
-      "url": "https://x.com/Codie_Sanchez/status/2119075928407986269",
-      "created_at": "2026-11-07T14:34:06.000Z",
-      "hook": "I regret to inform you that being married, waking up early, going to church, reading books, drinking less, staying home more, and being in b",
-      "text": "I regret to inform you that being married, waking up early, going to church, reading books, drinking less, staying home more, and being in bed by 10pm is actually amazing.",
+      "views": 46124,
+      "url": "https://x.com/Codie_Sanchez/status/2119796626227163493",
+      "created_at": "2026-11-09T14:17:54.000Z",
+      "hook": "Kanye… “People always tell you, ‘Be humble.’ When was the last time someone told you to be amazing?”",
+      "text": "Kanye… “People always tell you, ‘Be humble.’ When was the last time someone told you to be amazing?”\n\n- Biggest US rap concert ever 83,000 ppl. \n- Highest grossing single rap concert.\n- Completely independently promoted tour. \n\nYou gotta respect the man who never ever gives up. https://t.co/k8vs7A6kLz",
       "highlight": true,
       "quote_post": false
     },
     {
       "name": "Codie Sanchez",
       "handle": "@Codie_Sanchez",
-      "views": 165414,
-      "url": "https://x.com/Codie_Sanchez/status/2119438321294164085",
-      "created_at": "2026-11-08T14:34:07.000Z",
-      "hook": "Before I got married, I asked my parents what actually makes a marriage last.",
-      "text": "Before I got married, I asked my parents what actually makes a marriage last.\n\nAnd the more pregnant I get, the more I realize just how critical the man you marry really is.\n\nMy parents have been married 50+ years. \n\nHere's what they told me...\n\n1. Make your own money. Marry https://t.co/5AcGEcR5jy",
+      "views": 24134,
+      "url": "https://x.com/Codie_Sanchez/status/2119829141809684489",
+      "created_at": "2026-11-09T16:27:06.000Z",
+      "hook": "There are 5 levels of owning a business, decide which level you’re building toward:",
+      "text": "There are 5 levels of owning a business, decide which level you’re building toward:\n\nLevel 1 - it makes sales\nLevel 2 - it makes a profit\nLevel 3 - it pays you well\nLevel 4 - it pays you well w/o constant stress\nLevel 5 - it runs so well someone pays to buy it",
       "highlight": true,
       "quote_post": false
     },
     {
       "name": "Codie Sanchez",
       "handle": "@Codie_Sanchez",
-      "views": 53875,
-      "url": "https://x.com/Codie_Sanchez/status/2119149840391111131",
-      "created_at": "2026-11-07T19:27:48.000Z",
-      "hook": "Seth Godin has the best theory I’ve heard on why we waste so much of our lives trying to impress others: https://t.co/K94ORwfWPT",
-      "text": "Seth Godin has the best theory I’ve heard on why we waste so much of our lives trying to impress others: https://t.co/K94ORwfWPT",
+      "views": 21560,
+      "url": "https://x.com/Codie_Sanchez/status/2119998609647440026",
+      "created_at": "2026-11-10T03:40:30.000Z",
+      "hook": "You don't fear failure. You fear what people will think when you fail.",
+      "text": "You don't fear failure. You fear what people will think when you fail.\n\nThe funny part?\nNobody is thinking about you at all. There’s no prison except your ego.",
       "highlight": true,
       "quote_post": false
     },
     {
       "name": "Codie Sanchez",
       "handle": "@Codie_Sanchez",
-      "views": 37860,
-      "url": "https://x.com/Codie_Sanchez/status/2118763450705092648",
-      "created_at": "2026-11-06T17:52:26.000Z",
-      "hook": "You eventually realize intelligence isn’t IQ it’s just pattern recognition. ",
-      "text": "You eventually realize intelligence isn’t IQ it’s just pattern recognition. \n\nKeep going longer than everyone else you’ll see more patterns than anyone else.",
-      "highlight": true,
-      "quote_post": false
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 33844,
-      "url": "https://x.com/Codie_Sanchez/status/2119573455578304616",
-      "created_at": "2026-11-08T23:31:06.000Z",
-      "hook": "It took me 40 years to realize...",
-      "text": "It took me 40 years to realize...\n\n- the people who love you would rather keep you safe than see you grow\n- nobody cares how hard you worked, only what you delivered\n- risk always looks reckless to the people standing still\n- being slow costs you way more than being wrong\n- being",
-      "highlight": true,
-      "quote_post": false,
-      "draft_en": "30 followers this morning, down from 33 on Thursday.\n\nReal number, no spin.\n\nLast week I went five days without replying to vendors. Views on my posts dropped from about 22 to about 7.\n\nLesson noted. Back to the conversations this week.\n\nI'm building CraftDesk, an app for craft-fair and market vendors, launching soon.",
-      "video_tip": "Honest-numbers list: lead with the real number, one lesson, no spin."
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 32995,
-      "url": "https://x.com/Codie_Sanchez/status/2118741969023168926",
-      "created_at": "2026-11-06T16:27:04.000Z",
-      "hook": "Hard truth... You have not failed enough for the success you say you want.",
-      "text": "Hard truth... You have not failed enough for the success you say you want.\n\nA list of failed businesses over the last 15 years where I lost my own $$:\n\n- Threadsrefined ( -$100k)\n- Packaging Co (-$1.5M+)\n- CPG Co (-$50k)\n- Selling south (-$50k+)\n- Colombia JV BCI (-500k+)\n-",
-      "highlight": true,
-      "quote_post": false
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 30341,
-      "url": "https://x.com/Codie_Sanchez/status/2118787325467435040",
-      "created_at": "2026-11-06T19:27:18.000Z",
-      "hook": "Lock yourself in a room, until you win.",
-      "text": "Lock yourself in a room, until you win.\n\nTwo years ago people told me our startup BizScout would \"never work.\"\n\nToday:\n- 183,000+ users\n- 70,000 buyer &amp; seller connections\n- 1.5M listing views\n- A $5M seed round from Valor, Balaji Srinivasan, Sean Rad &amp; Bill Perkins\n- Lots of mad https://t.co/oxm5bTKE1l",
-      "highlight": true,
-      "quote_post": false
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 28818,
-      "url": "https://x.com/Codie_Sanchez/status/2119097818610651181",
-      "created_at": "2026-11-07T16:01:05.000Z",
-      "hook": "The older I get the more I realize that most advice on why you can’t is just people defending why they’ve failed.",
-      "text": "The older I get the more I realize that most advice on why you can’t is just people defending why they’ve failed.",
-      "highlight": true,
-      "quote_post": false
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 23301,
-      "url": "https://x.com/Codie_Sanchez/status/2119104365839392978",
-      "created_at": "2026-11-07T16:27:06.000Z",
-      "hook": "You don't need to worry about which direction you're going to start.",
-      "text": "You don't need to worry about which direction you're going to start.\n\nYou just need to start... move fast, and keep asking yourself if your life is what you want it to be.",
-      "highlight": true,
-      "quote_post": false
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 21241,
-      "url": "https://x.com/Codie_Sanchez/status/2119512111957024825",
-      "created_at": "2026-11-08T19:27:20.000Z",
-      "hook": "Shark Tank investor Robert Herjavec explains the difference between getting out of poverty and building a $400 million company:",
-      "text": "Shark Tank investor Robert Herjavec explains the difference between getting out of poverty and building a $400 million company:\n\n* Urgency gets you out of poverty, patience makes you wealthy https://t.co/MOuHAOI9Ea",
-      "highlight": true,
-      "quote_post": false
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 21011,
-      "url": "https://x.com/Codie_Sanchez/status/2119466757521858879",
-      "created_at": "2026-11-08T16:27:07.000Z",
-      "hook": "Hard truth... if you want to be in charge, you’ll have to work harder, and for longer than anybody else in your company.",
-      "text": "Hard truth... if you want to be in charge, you’ll have to work harder, and for longer than anybody else in your company.\n\nYou’ll also make more money, have a bigger impact, and find out what you’re actually made of. It’s incredible. \n\nIt’s also not for everyone. So choose wisely.",
-      "highlight": true,
-      "quote_post": false
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 17968,
-      "url": "https://x.com/Codie_Sanchez/status/2118713752539344932",
-      "created_at": "2026-11-06T14:34:57.000Z",
-      "hook": "Your goal as a CEO should be for your people to one day make more money than you. https://t.co/mrDcPoKAFP",
-      "text": "Your goal as a CEO should be for your people to one day make more money than you. https://t.co/mrDcPoKAFP",
+      "views": 18734,
+      "url": "https://x.com/Codie_Sanchez/status/2119874436203467107",
+      "created_at": "2026-11-09T19:27:05.000Z",
+      "hook": "Why would you ever let another make your life unhappy? ",
+      "text": "Why would you ever let another make your life unhappy? \n\nYou get to live it, they don't. Move on relentlessly.",
       "highlight": true,
       "quote_post": false
     },
     {
       "name": "Tony Dinh",
       "handle": "@tdinh_me",
-      "views": 17131,
-      "url": "https://x.com/tdinh_me/status/2119389986953023985",
-      "created_at": "2026-11-08T11:22:03.000Z",
-      "hook": "I asked my agent to create a mock Slack for e2e tests but honestly it didn't have to spent this much effort on the UI 😂😂😂 https://t.co/8Xfpl",
-      "text": "I asked my agent to create a mock Slack for e2e tests but honestly it didn't have to spent this much effort on the UI 😂😂😂 https://t.co/8XfploU9v2",
+      "views": 15540,
+      "url": "https://x.com/tdinh_me/status/2119774486782431741",
+      "created_at": "2026-11-09T12:49:55.000Z",
+      "hook": "9 threads running, 21 threads queued",
+      "text": "9 threads running, 21 threads queued\n\nI need MORE TOKENS!!!\n\nOpen sourcing my harness soon, it's so POWERFULLLL https://t.co/776JfpdxY0",
       "highlight": true,
-      "quote_post": false,
-      "draft_en": "Vendors who sold this weekend: show me your table.\n\nNot the polished shot. The real one, with the tape, the cash box, and the thing you always put up front.\n\nI'm building CraftDesk for craft-fair and market vendors, launching soon, and I learn more from real tables than from tip threads.\n\nDrop a photo if you're up for it.",
-      "video_tip": "Show the real, messy version; it invites people to show theirs."
+      "quote_post": false
     },
     {
-      "name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 10313,
-      "url": "https://x.com/arvidkahl/status/2119123618298814556",
-      "created_at": "2026-11-07T17:43:36.000Z",
-      "hook": "Amazing use case for Podscan to track an entire podcasting ecosystem for fun and (more importantly) profit.",
-      "text": "Amazing use case for Podscan to track an entire podcasting ecosystem for fun and (more importantly) profit.\n\nI'm telling you, agentic use of treasure troves of data, such as every podcast transcript out there (wink), is a massive entrepreneurial advantage. https://t.co/bLwePXLI3g",
-      "highlight": true,
-      "quote_post": false,
-      "draft_en": "Two ways to write the same show-morning reminder:\n\nA) Pack the card reader charger\nB) Charge the card reader the night before\n\nI'm building CraftDesk for craft-fair and market vendors, and this is the kind of small thing I keep going back and forth on.\n\nWhich one would actually save your morning?",
-      "video_tip": "Concrete use case framing: one small, specific choice and ask which works."
+      "name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 8112,
+      "url": "https://x.com/tdinh_me/status/2119970122278502762",
+      "created_at": "2026-11-10T01:47:18.000Z",
+      "hook": "X is being attacked.",
+      "text": "X is being attacked.\n\nBot accounts posting AI slops, all verified accounts with &gt; 30K followers.\n\nHow did they do this 😐 https://t.co/cjPirsAfTs",
+      "highlight": false,
+      "quote_post": false
     },
     {
-      "name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 9211,
-      "url": "https://x.com/arvidkahl/status/2119539520903540955",
-      "created_at": "2026-11-08T21:16:15.000Z",
-      "hook": "Ah yes, the reverse grandfathering. Upgrade legacy customers to a new plan without asking. ",
-      "text": "Ah yes, the reverse grandfathering. Upgrade legacy customers to a new plan without asking. \n\nGrandsonning! https://t.co/UwThp29z3j",
+      "name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 7712,
+      "url": "https://x.com/tdinh_me/status/2120006661326995618",
+      "created_at": "2026-11-10T04:12:30.000Z",
+      "hook": "Exactly one year ago I talked to a guy who told me about all the Hyper Engineering / Agentic Development / \"no tokens wasted\" and \"let your ",
+      "text": "Exactly one year ago I talked to a guy who told me about all the Hyper Engineering / Agentic Development / \"no tokens wasted\" and \"let your agents run for hours in the background then you come back and make decisions\" etc...\n\nAnd I was like \"I can't even make my agent run for 5 https://t.co/BP2HFhlbl1",
       "highlight": false,
       "quote_post": false
     },
     {
       "name": "Arvid Kahl",
       "handle": "@arvidkahl",
-      "views": 6889,
-      "url": "https://x.com/arvidkahl/status/2119449164492759331",
-      "created_at": "2026-11-08T15:17:12.000Z",
-      "hook": "Ha, I’ve been pondering why I get back to work, exit after exit, too. Instead of just playing wow at the beach or whatever the current fanta",
-      "text": "Ha, I’ve been pondering why I get back to work, exit after exit, too. Instead of just playing wow at the beach or whatever the current fantasy is.\n\nAnd I come back to curiosity, every single time. What else can I attempt that I have never done before? What’s the next experiment? https://t.co/ctbRHHlHkU",
-      "highlight": false,
-      "quote_post": false
-    },
-    {
-      "name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 6311,
-      "url": "https://x.com/arvidkahl/status/2119124351190749501",
-      "created_at": "2026-11-07T17:46:31.000Z",
-      "hook": "I get the best spam.",
-      "text": "I get the best spam.\n\nGeneral Contact. I feel honored! https://t.co/onwHZTKaCg",
-      "highlight": false,
-      "quote_post": false
-    },
-    {
-      "name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 5330,
-      "url": "https://x.com/arvidkahl/status/2118893968721142021",
-      "created_at": "2026-11-07T02:31:03.000Z",
-      "hook": "Agentic work in the cloud plus Starlink means that most dev work can now be done from anywhere, anytime.",
-      "text": "Agentic work in the cloud plus Starlink means that most dev work can now be done from anywhere, anytime.\n\nI wonder how this will affect mobility, salaries, and, most importantly, expectations around “being always on”… https://t.co/E7AOOqML23",
-      "highlight": false,
-      "quote_post": false
-    },
-    {
-      "name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 5295,
-      "url": "https://x.com/arvidkahl/status/2119546817960374295",
-      "created_at": "2026-11-08T21:45:15.000Z",
-      "hook": "Am I living in the future? https://t.co/8GzPrxBq46",
-      "text": "Am I living in the future? https://t.co/8GzPrxBq46",
+      "views": 6306,
+      "url": "https://x.com/arvidkahl/status/2119854779975528815",
+      "created_at": "2026-11-09T18:08:59.000Z",
+      "hook": "A customer service conversation I just had.",
+      "text": "A customer service conversation I just had.\n\nWe're all just meat proxies now. https://t.co/UOEFKmo5QY",
       "highlight": false,
       "quote_post": false
     }
   ],
-  "hits_count": 19,
+  "hits_count": 8,
   "patterns": [
-    "\"hard truth\" one-liner",
-    "\"it took me 40 years to realize\" list",
-    "marriage / family wisdom story",
-    "famous-founder quote clip",
-    "\"lock yourself in a room\" origin story",
-    "CEO pay-your-people take",
-    "agent-built UI joke",
-    "customer use-case shoutout",
-    "pricing-change wordplay (\"grandsonning\")",
-    "work-from-anywhere musing"
+    "numbered \"levels\" ladder (5 levels of owning a business)",
+    "one-line contrarian truth (\"You don't fear failure...\")",
+    "celebrity quote as hook",
+    "prediction with a year (\"2030 prediction\")",
+    "live build status (\"9 threads running\")",
+    "screenshot + one-line reaction"
   ],
-  "virals": [
-    {
-      "name": "PokeDropTicker",
-      "handle": "@PokeDropTicker",
-      "views": 11177,
-      "url": "https://x.com/PokeDropTicker/status/2119585511660724255",
-      "hook": "CARD SHOW GAMBLE: 5 mystery packs off a vendor table, $565 back on $1,750"
-    }
-  ],
-  "outsiders": [
-    {
-      "name": "PokeDropTicker",
-      "handle": "@PokeDropTicker",
-      "views": 11177,
-      "url": "https://x.com/PokeDropTicker/status/2119585511660724255",
-      "hook": "CARD SHOW GAMBLE: 5 mystery packs off a vendor table, $565 back on $1,750"
-    }
-  ],
-  "outsiders_count": 1,
-  "virals_narrative": "Codie Sanchez owned the weekend: the 'I regret to inform you' habits post (372K) and the marriage story (165K) lead 12 Codie hits over 5K. tdinh_me's mock-Slack agent joke hit 17K and arvidkahl cleared 5K six times (best 10.3K, a Podscan use case). Square, Shopify and thepatwalls had no originals in the search window. In the vendor niche the only 5K+ post was a card-show vendor-table gamble (11.2K). Competitors HipopMarkets and BoothKeeper posted nothing.",
+  "virals": [],
+  "outsiders": [],
+  "outsiders_count": 0,
+  "virals_narrative": "Codie Sanchez carried the window with four starred posts (46.1K top, a Kanye quote hook), including a numbered \"5 levels of owning a business\" ladder. Tony Dinh starred once on a live build-status post and Arvid Kahl cleared min_views once. No niche vendor post reached 5,000 views in our searches. Competitors HipopMarkets and BoothKeeper posted nothing new.",
   "virals_target": 5,
   "virals_window": "last ~60h",
   "no_hits": [
@@ -301,12 +154,12 @@
     },
     {
       "handle": "@HipopMarkets",
-      "reason": "no originals in window",
+      "reason": "competitor: no new posts",
       "max_views": null
     },
     {
       "handle": "@BoothKeeper",
-      "reason": "no originals in window",
+      "reason": "competitor: no new posts",
       "max_views": null
     }
   ],
@@ -314,29 +167,29 @@
     {
       "handle": "@Codie_Sanchez",
       "name": "Codie Sanchez",
-      "views": 371532,
-      "total_views": 838200,
+      "views": 46124,
+      "total_views": 110552,
       "hit": true
     },
     {
       "handle": "@tdinh_me",
       "name": "Tony Dinh",
-      "views": 17131,
-      "total_views": 17131,
+      "views": 15540,
+      "total_views": 36384,
       "hit": true
     },
     {
       "handle": "@arvidkahl",
       "name": "Arvid Kahl",
-      "views": 10313,
-      "total_views": 43349,
+      "views": 6306,
+      "total_views": 6306,
       "hit": true
     },
     {
       "handle": "@CraftDeskApp",
       "name": "CraftDesk",
-      "views": 23,
-      "total_views": 50,
+      "views": 1,
+      "total_views": 1,
       "hit": false,
       "is_you": true
     },
@@ -363,18 +216,18 @@
     }
   ],
   "you_rank": {
-    "best_views": 23,
-    "total_views": 50,
-    "best_url": "https://x.com/CraftDeskApp/status/2119510378245738728",
+    "best_views": 1,
+    "total_views": 1,
+    "best_url": "https://x.com/CraftDeskApp/status/2119940948608090401",
     "rank_among_watchlist": 4,
     "total_accounts": 7,
     "vs_5k": "pending",
     "vs_10k": "pending"
   },
   "previous_day": {
-    "date": "2026-11-06",
-    "hits_count": 16,
-    "total_views": 571425
+    "date": "2026-11-09",
+    "hits_count": 19,
+    "total_views": 898730
   },
   "follower_goal": {
     "handle": "@CraftDeskApp",
@@ -386,14 +239,14 @@
     "target_date": "2026-11-30"
   },
   "leaderboards": {
-    "as_of": "2026-11-09",
+    "as_of": "2026-11-10",
     "tracking_start": "2026-10-25",
     "days_included": [
-      "2026-11-03",
       "2026-11-04",
       "2026-11-05",
       "2026-11-06",
-      "2026-11-09"
+      "2026-11-09",
+      "2026-11-10"
     ],
     "month_days_included": [
       "2026-11-02",
@@ -401,22 +254,23 @@
       "2026-11-04",
       "2026-11-05",
       "2026-11-06",
-      "2026-11-09"
+      "2026-11-09",
+      "2026-11-10"
     ],
     "week": {
-      "label": "Rolling week · Nov 3–Nov 9",
+      "label": "Rolling week · Nov 4–Nov 10",
       "range": [
-        "2026-11-03",
-        "2026-11-09"
+        "2026-11-04",
+        "2026-11-10"
       ],
       "entries": [
         {
           "handle": "@Codie_Sanchez",
           "name": "Codie Sanchez",
-          "hits": 48,
+          "hits": 42,
           "days": 5,
           "best": 371532,
-          "views": 2212243,
+          "views": 2038251,
           "is_you": false
         },
         {
@@ -426,15 +280,6 @@
           "days": 2,
           "best": 34041,
           "views": 47554,
-          "is_you": false
-        },
-        {
-          "handle": "@tdinh_me",
-          "name": "Tony Dinh",
-          "hits": 12,
-          "days": 3,
-          "best": 29800,
-          "views": 163964,
           "is_you": false
         },
         {
@@ -447,21 +292,30 @@
           "is_you": false
         },
         {
+          "handle": "@tdinh_me",
+          "name": "Tony Dinh",
+          "hits": 8,
+          "days": 3,
+          "best": 17799,
+          "views": 91570,
+          "is_you": false
+        },
+        {
           "handle": "@arvidkahl",
           "name": "Arvid Kahl",
           "hits": 18,
           "days": 5,
           "best": 14888,
-          "views": 141489,
+          "views": 142463,
           "is_you": false
         },
         {
           "handle": "@thepatwalls",
           "name": "Pat Walls",
-          "hits": 2,
-          "days": 2,
+          "hits": 1,
+          "days": 1,
           "best": 5705,
-          "views": 10868,
+          "views": 5705,
           "is_you": false
         }
       ]
@@ -470,25 +324,25 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-09"
+        "2026-11-10"
       ],
       "entries": [
         {
           "handle": "@Codie_Sanchez",
           "name": "Codie Sanchez",
-          "hits": 60,
-          "days": 6,
+          "hits": 64,
+          "days": 7,
           "best": 371532,
-          "views": 2681063,
+          "views": 2791615,
           "is_you": false
         },
         {
           "handle": "@arvidkahl",
           "name": "Arvid Kahl",
-          "hits": 27,
-          "days": 6,
+          "hits": 28,
+          "days": 7,
           "best": 39699,
-          "views": 252664,
+          "views": 258970,
           "is_you": false
         },
         {
@@ -503,10 +357,10 @@
         {
           "handle": "@tdinh_me",
           "name": "Tony Dinh",
-          "hits": 22,
-          "days": 4,
+          "hits": 25,
+          "days": 5,
           "best": 30110,
-          "views": 325613,
+          "views": 356977,
           "is_you": false
         },
         {
