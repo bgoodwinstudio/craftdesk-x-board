@@ -1,8 +1,8 @@
 {
   "title": "Daily X digest for @CraftDeskApp · 2026-11-09",
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "timezone": "America/New_York",
-  "updated": "2026-11-11T06:21:26-05:00",
+  "updated": "2026-11-12T06:35:00-05:00",
   "brand_title": "CraftDesk X Virality Score",
   "brand_handle": "@CraftDeskApp",
   "operator": {
@@ -28,105 +28,94 @@
     "no_hits_reasons": true,
     "marker_class": "xvs-dash-2026"
   },
-  "window": "originals posted ~2026-11-10 06:20 ET to 2026-11-11 06:20 ET (digest pull since last refresh Nov 10 06:20 ET)",
+  "window": "originals posted ~2026-11-11 06:20 ET to 2026-11-12 06:20 ET (digest pull since last refresh Nov 11 06:20 ET)",
   "min_views": 5000,
   "star_views": 10000,
   "hits": [
     {
       "name": "Codie Sanchez",
       "handle": "@Codie_Sanchez",
-      "views": 84717,
-      "url": "https://x.com/Codie_Sanchez/status/2120163085516177456",
-      "created_at": "2026-11-10T14:34:04.000Z",
-      "hook": "one-line life rule (\"Creation kills depression\")",
-      "text": "You'll be happier when you create more, and consume less. Creation kills depression.",
+      "views": 115077,
+      "url": "https://x.com/Codie_Sanchez/status/2120553924348318010",
+      "created_at": "2026-11-11T16:27:08.000Z",
+      "hook": "famous-person artifact (\"Steve Jobs emailed this to himself\")",
+      "text": "Steve Jobs emailed this to himself a year before he died... a humbling reminder of how much we all depend on each other. https://t.co/23Jqv8xdyx",
+      "highlight": true,
+      "quote_post": false
+    },
+    {
+      "name": "Codie Sanchez",
+      "handle": "@Codie_Sanchez",
+      "views": 36404,
+      "url": "https://x.com/Codie_Sanchez/status/2120599209502003557",
+      "created_at": "2026-11-11T19:27:05.000Z",
+      "hook": "\"Unpopular opinion:\" contrarian take",
+      "text": "Unpopular opinion: inspiring your team is wildly overrated.\n\nPay them well. Tie their pay to the outcome you want, and watch them win.",
+      "highlight": true,
+      "quote_post": false
+    },
+    {
+      "name": "Codie Sanchez",
+      "handle": "@Codie_Sanchez",
+      "views": 33959,
+      "url": "https://x.com/Codie_Sanchez/status/2120525475789357557",
+      "created_at": "2026-11-11T14:34:05.000Z",
+      "hook": "\"How to get lucky:\" three-line list",
+      "text": "How to get lucky:\n\n- Be around people 10x ahead of you\n- Put in an unreasonable amount of volume\n- Be known as the person who does what they say they’ll do",
       "highlight": true,
       "quote_post": false,
-      "draft_en": "B (which version?) draft in today's digest borrows the one-line, two-option clarity.",
+      "draft_en": "C (table-setup invite) keeps to a few short lines like this list.",
+      "video_tip": "Skip video; text only."
+    },
+    {
+      "name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 15003,
+      "url": "https://x.com/tdinh_me/status/2120721007577280691",
+      "created_at": "2026-11-12T03:31:03.000Z",
+      "hook": "\"give me a good reason why I shouldn't\" challenge question",
+      "text": "Can someone give me a good reason why I shouldn't create a new dedicated AWS account and let claude code run in the Cloudshell to manage all of the infra for my new product? 😂",
+      "highlight": true,
+      "quote_post": false,
+      "draft_en": "B (which version?) uses the same direct question to the reader.",
       "video_tip": "Skip video; text only."
     },
     {
       "name": "Shopify",
       "handle": "@Shopify",
-      "views": 70521,
-      "url": "https://x.com/Shopify/status/2120220849789882374",
-      "created_at": "2026-11-10T18:23:37.000Z",
-      "hook": "product launch one-liner (\"Show up better in ChatGPT\")",
-      "text": "Show up better in ChatGPT\n\nClaim your brand and get a dedicated agent that answers questions about your store https://t.co/mfUaFoUK3T https://t.co/hAnAAJGiG3",
+      "views": 12522,
+      "url": "https://x.com/Shopify/status/2120574475007934493",
+      "created_at": "2026-11-11T17:48:47.000Z",
+      "hook": "\"New in the App Store:\" product one-liner",
+      "text": "New in the App Store: @Kickstarter \n\nBacker orders sync directly to your admin and ship like any other order https://t.co/Tq9c1zWZJm",
       "highlight": true,
       "quote_post": false
     },
     {
       "name": "Tony Dinh",
       "handle": "@tdinh_me",
-      "views": 59937,
-      "url": "https://x.com/tdinh_me/status/2120110443897164105",
-      "created_at": "2026-11-10T11:04:54.000Z",
-      "hook": "prediction with a year (\"2030 prediction\")",
-      "text": "I think SWE jobs will be safe from AI, but not the way you think:\n\n2030 prediction:\n\n- AI can write code and build systems much better and faster than 99% of humans.\n- Tokens will cost more, not less.\n- You have to spend a LOT of money on tokens to use AI to work for you.\n- If",
-      "highlight": true,
-      "quote_post": false
-    },
-    {
-      "name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 48743,
-      "url": "https://x.com/arvidkahl/status/2120191858139865318",
-      "created_at": "2026-11-10T16:28:24.000Z",
-      "hook": "self-deprecating question + screenshot",
-      "text": "Is this management? Am I a manager now?? https://t.co/QPMfMEdW8K",
-      "highlight": true,
-      "quote_post": false
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 45517,
-      "url": "https://x.com/Codie_Sanchez/status/2120257887612142011",
-      "created_at": "2026-11-10T20:50:47.000Z",
-      "hook": "celebrity take as hook (Tony Robbins)",
-      "text": "Tony Robbins has the best take on why men and women process emotions so differently: https://t.co/MsVWFb5D3m",
-      "highlight": true,
-      "quote_post": false
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 26277,
-      "url": "https://x.com/Codie_Sanchez/status/2120118366879023307",
-      "created_at": "2026-11-10T11:36:23.000Z",
-      "hook": "two-sided contrast aphorism",
-      "text": "Pessimists sound smart, optimists make money. https://t.co/yYen2H9dOq",
-      "highlight": true,
-      "quote_post": false,
-      "draft_en": "Contrast structure informs the which-version draft (A vs B).",
-      "video_tip": "Skip video; text only."
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 23665,
-      "url": "https://x.com/Codie_Sanchez/status/2120298228281209206",
-      "created_at": "2026-11-10T23:31:05.000Z",
-      "hook": "hard-truth manhood challenge",
-      "text": "You cannot call yourself a grown man if you're not willing to walk up to someone and tell them the hard truth. \n\nToo many weak keyboard warriors today.",
-      "highlight": true,
+      "views": 5225,
+      "url": "https://x.com/tdinh_me/status/2120710175422324863",
+      "created_at": "2026-11-12T02:48:01.000Z",
+      "hook": "surprise reaction + screenshot",
+      "text": "I'm surprised with the result! https://t.co/oO9M16yBbV",
+      "highlight": false,
       "quote_post": false
     }
   ],
-  "hits_count": 7,
+  "hits_count": 6,
   "patterns": [
-    "one-line life rule (\"Creation kills depression\")",
-    "two-sided contrast aphorism (\"Pessimists sound smart, optimists make money\")",
-    "celebrity take as hook",
-    "prediction with a year (\"2030 prediction\")",
-    "self-deprecating question + screenshot",
-    "product launch one-liner"
+    "famous-person artifact (\"Steve Jobs emailed this to himself\")",
+    "\"Unpopular opinion:\" contrarian take",
+    "\"How to get lucky:\" three-line list",
+    "\"give me a good reason why I shouldn't\" challenge question",
+    "\"New in the App Store:\" product one-liner",
+    "surprise reaction + screenshot"
   ],
   "virals": [],
   "outsiders": [],
   "outsiders_count": 0,
-  "virals_narrative": "Codie Sanchez carried the window again with four starred posts (84.7K top, the one-line rule \"Creation kills depression\"). Shopify starred on a ChatGPT store-agent launch, and Arvid Kahl and Tony Dinh each starred once. No niche vendor post reached 5,000 views in our searches. Competitors HipopMarkets and BoothKeeper posted nothing new.",
+  "virals_narrative": "Codie Sanchez led again with short life and team rules (Steve Jobs email at 115K views). Tony Dinh's challenge question and Shopify's Kickstarter app note also cleared 10K. No craft-fair or market-vendor post cleared 5,000 views in the window. HipopMarkets and BoothKeeper posted nothing new.",
   "virals_target": 5,
   "virals_window": "last ~60h",
   "no_hits": [
@@ -137,6 +126,11 @@
     },
     {
       "handle": "@thepatwalls",
+      "reason": "no originals in window",
+      "max_views": null
+    },
+    {
+      "handle": "@arvidkahl",
       "reason": "no originals in window",
       "max_views": null
     },
@@ -155,30 +149,31 @@
     {
       "handle": "@Codie_Sanchez",
       "name": "Codie Sanchez",
-      "views": 84717,
-      "total_views": 180176,
-      "hit": true
-    },
-    {
-      "handle": "@Shopify",
-      "name": "Shopify",
-      "views": 70521,
-      "total_views": 70521,
+      "views": 115077,
+      "total_views": 185440,
       "hit": true
     },
     {
       "handle": "@tdinh_me",
       "name": "Tony Dinh",
-      "views": 59937,
-      "total_views": 59937,
+      "views": 15003,
+      "total_views": 22094,
       "hit": true
     },
     {
-      "handle": "@arvidkahl",
-      "name": "Arvid Kahl",
-      "views": 48743,
-      "total_views": 48743,
+      "handle": "@Shopify",
+      "name": "Shopify",
+      "views": 12522,
+      "total_views": 12522,
       "hit": true
+    },
+    {
+      "handle": "@CraftDeskApp",
+      "name": "CraftDesk",
+      "views": 1,
+      "total_views": 1,
+      "hit": false,
+      "is_you": true
     },
     {
       "handle": "@Square",
@@ -195,27 +190,26 @@
       "hit": false
     },
     {
-      "handle": "@CraftDeskApp",
-      "name": "CraftDesk",
+      "handle": "@arvidkahl",
+      "name": "Arvid Kahl",
       "views": 0,
       "total_views": 0,
-      "hit": false,
-      "is_you": true
+      "hit": false
     }
   ],
   "you_rank": {
-    "best_views": 0,
-    "total_views": 0,
-    "best_url": "https://x.com/CraftDeskApp/status/2120314067214852367",
-    "rank_among_watchlist": 7,
+    "best_views": 1,
+    "total_views": 1,
+    "best_url": "https://x.com/CraftDeskApp/status/2120701073354523113",
+    "rank_among_watchlist": 4,
     "total_accounts": 7,
     "vs_5k": "pending",
     "vs_10k": "pending"
   },
   "previous_day": {
-    "date": "2026-11-10",
-    "hits_count": 8,
-    "total_views": 148222
+    "date": "2026-11-11",
+    "hits_count": 7,
+    "total_views": 359377
   },
   "follower_goal": {
     "handle": "@CraftDeskApp",
@@ -227,14 +221,14 @@
     "target_date": "2026-11-30"
   },
   "leaderboards": {
-    "as_of": "2026-11-11",
+    "as_of": "2026-11-12",
     "tracking_start": "2026-10-25",
     "days_included": [
-      "2026-11-05",
       "2026-11-06",
       "2026-11-09",
       "2026-11-10",
-      "2026-11-11"
+      "2026-11-11",
+      "2026-11-12"
     ],
     "month_days_included": [
       "2026-11-02",
@@ -244,22 +238,23 @@
       "2026-11-06",
       "2026-11-09",
       "2026-11-10",
-      "2026-11-11"
+      "2026-11-11",
+      "2026-11-12"
     ],
     "week": {
-      "label": "Rolling week · Nov 5–Nov 11",
+      "label": "Rolling week · Nov 6–Nov 12",
       "range": [
-        "2026-11-05",
-        "2026-11-11"
+        "2026-11-06",
+        "2026-11-12"
       ],
       "entries": [
         {
           "handle": "@Codie_Sanchez",
           "name": "Codie Sanchez",
-          "hits": 39,
+          "hits": 33,
           "days": 5,
           "best": 371532,
-          "views": 1970259,
+          "views": 1786338,
           "is_you": false
         },
         {
@@ -268,25 +263,25 @@
           "hits": 4,
           "days": 3,
           "best": 70521,
-          "views": 118075,
+          "views": 124597,
           "is_you": false
         },
         {
           "handle": "@tdinh_me",
           "name": "Tony Dinh",
-          "hits": 5,
-          "days": 3,
+          "hits": 7,
+          "days": 4,
           "best": 59937,
-          "views": 108432,
+          "views": 128660,
           "is_you": false
         },
         {
           "handle": "@arvidkahl",
           "name": "Arvid Kahl",
-          "hits": 15,
-          "days": 5,
+          "hits": 11,
+          "days": 4,
           "best": 48743,
-          "views": 158256,
+          "views": 122379,
           "is_you": false
         },
         {
@@ -304,34 +299,34 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-11"
+        "2026-11-12"
       ],
       "entries": [
         {
           "handle": "@Codie_Sanchez",
           "name": "Codie Sanchez",
-          "hits": 68,
-          "days": 8,
+          "hits": 71,
+          "days": 9,
           "best": 371532,
-          "views": 2971791,
+          "views": 3157231,
           "is_you": false
         },
         {
           "handle": "@Shopify",
           "name": "Shopify",
-          "hits": 4,
-          "days": 3,
+          "hits": 5,
+          "days": 4,
           "best": 70521,
-          "views": 118075,
+          "views": 130597,
           "is_you": false
         },
         {
           "handle": "@tdinh_me",
           "name": "Tony Dinh",
-          "hits": 26,
-          "days": 6,
+          "hits": 28,
+          "days": 7,
           "best": 59937,
-          "views": 416914,
+          "views": 437142,
           "is_you": false
         },
         {
