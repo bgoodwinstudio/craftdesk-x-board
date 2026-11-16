@@ -350,6 +350,32 @@
         "best": 5277,
         "views": 5277
       }
+    },
+    "2026-11-16": {
+      "@Shopify": {
+        "name": "Shopify",
+        "hits": 1,
+        "best": 4010725,
+        "views": 4010725
+      },
+      "@Codie_Sanchez": {
+        "name": "Codie Sanchez",
+        "hits": 8,
+        "best": 285783,
+        "views": 517050
+      },
+      "@tdinh_me": {
+        "name": "Tony Dinh",
+        "hits": 3,
+        "best": 15205,
+        "views": 28992
+      },
+      "@arvidkahl": {
+        "name": "Arvid Kahl",
+        "hits": 3,
+        "best": 14992,
+        "views": 29785
+      }
     }
   }
 }
