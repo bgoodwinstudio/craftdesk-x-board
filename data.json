@@ -1,8 +1,8 @@
 {
-  "title": "Daily X digest for @CraftDeskApp · 2026-11-18",
-  "date": "2026-11-18",
+  "title": "Daily X digest for @CraftDeskApp · 2026-11-19",
+  "date": "2026-11-19",
   "timezone": "America/New_York",
-  "updated": "2026-11-18T06:35:00-05:00",
+  "updated": "2026-11-19T06:40:00-05:00",
   "brand_title": "CraftDesk X Virality Score",
   "brand_handle": "@CraftDeskApp",
   "operator": {
@@ -28,38 +28,25 @@
     "no_hits_reasons": true,
     "marker_class": "xvs-dash-2026"
   },
-  "window": "originals posted ~2026-11-16 06:00 ET to 2026-11-18 06:20 ET (~48h)",
+  "window": "originals posted ~2026-11-17 06:00 ET to 2026-11-19 06:25 ET (~48h)",
   "min_views": 5000,
   "star_views": 10000,
   "hits": [
     {
       "name": "Codie Sanchez",
       "handle": "@Codie_Sanchez",
-      "views": 90329,
+      "views": 116267,
       "url": "https://x.com/Codie_Sanchez/status/2122751678503907590",
       "created_at": "2026-11-17T18:00:13.000Z",
       "hook": "Underrated sign of a high performer... they hate small talk.",
       "text": "Underrated sign of a high performer... they hate small talk.",
-      "highlight": true,
-      "quote_post": false,
-      "draft_en": "Underrated sign of a good show for vendors: real attendance numbers vs. returning vendors. (Post A in the Nov 18 digest.)",
-      "video_tip": "No video; one-question post."
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 84401,
-      "url": "https://x.com/Codie_Sanchez/status/2122337435812012507",
-      "created_at": "2026-11-16T14:34:10.000Z",
-      "hook": "I regret to inform you that you don't need to out-innovate anyone. Call back in an hour. Show up when you said you would",
-      "text": "I regret to inform you that you don't need to out-innovate anyone. Call back in an hour. Show up when you said you would. Send the invoice correctly. In 2026 basic competence IS luxury.",
       "highlight": true,
       "quote_post": false
     },
     {
       "name": "Codie Sanchez",
       "handle": "@Codie_Sanchez",
-      "views": 40271,
+      "views": 53810,
       "url": "https://x.com/Codie_Sanchez/status/2122697768154157272",
       "created_at": "2026-11-17T14:26:00.000Z",
       "hook": "Ex-Amazon VP shares 3 lessons he learned working with Jeff Bezos:",
@@ -70,18 +57,31 @@
     {
       "name": "Codie Sanchez",
       "handle": "@Codie_Sanchez",
-      "views": 29480,
-      "url": "https://x.com/Codie_Sanchez/status/2122374909032534273",
-      "created_at": "2026-11-16T17:03:04.000Z",
-      "hook": "Hire winners, they'll likely keep winning.",
-      "text": "Hire winners, they'll likely keep winning.\n\nBefriend givers, they make giving a habit.\n\nAvoid talkers, they mistake words for actions.",
+      "views": 47155,
+      "url": "https://x.com/Codie_Sanchez/status/2123099687838183712",
+      "created_at": "2026-11-18T17:03:05.000Z",
+      "hook": "Run a business long enough and you realize it just comes down to three things:",
+      "text": "Run a business long enough and you realize it just comes down to three things:\n\nDon’t run out of cash.\nLook at your bank account every week.\nTreat every customer like you won’t get another.",
+      "highlight": true,
+      "quote_post": false,
+      "draft_en": "Three-things list for vendors ending on 'What would you add?' (Post A in the Nov 19 digest.)",
+      "video_tip": "No video; text only."
+    },
+    {
+      "name": "Codie Sanchez",
+      "handle": "@Codie_Sanchez",
+      "views": 35540,
+      "url": "https://x.com/Codie_Sanchez/status/2123062188092908022",
+      "created_at": "2026-11-18T14:34:04.000Z",
+      "hook": "I'm looking for 3 people who want to acquire a $2M+ business in the next 3-12 months.",
+      "text": "I'm looking for 3 people who want to acquire a $2M+ business in the next 3-12 months.\n\nOur acquisitions team will hunt down deals for you full time, on and off-market, until we find exactly what you're looking for.\n\nWe currently have $115M in active negotiations for our private",
       "highlight": true,
       "quote_post": false
     },
     {
       "name": "Codie Sanchez",
       "handle": "@Codie_Sanchez",
-      "views": 21538,
+      "views": 26482,
       "url": "https://x.com/Codie_Sanchez/status/2122788897809633581",
       "created_at": "2026-11-17T20:28:07.000Z",
       "hook": "This is so true it hurts. https://t.co/n7sz312OIH",
@@ -90,62 +90,85 @@
       "quote_post": false
     },
     {
-      "name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 9947,
-      "url": "https://x.com/arvidkahl/status/2122877927368880392",
-      "created_at": "2026-11-18T02:21:53.000Z",
-      "hook": "Will you buy Anthropic shares?",
-      "text": "Will you buy Anthropic shares?",
-      "highlight": false,
+      "name": "Shopify",
+      "handle": "@Shopify",
+      "views": 21502,
+      "url": "https://x.com/Shopify/status/2123108395129487836",
+      "created_at": "2026-11-18T17:37:41.000Z",
+      "hook": "We rebuilt https://t.co/taFd34TtfS.",
+      "text": "We rebuilt https://t.co/taFd34TtfS.\n\nSame merch. Now more fun. https://t.co/iFIJHSdaYH",
+      "highlight": true,
       "quote_post": false,
-      "draft_en": "One-line A/B question on the artist alley debate. (Post B in the Nov 18 digest.)",
-      "video_tip": "No video; text only."
+      "draft_en": "Which-version: same items with a new display, or new items with the same display? (Post B in the Nov 19 digest.)",
+      "video_tip": "Optional ink sketch of two tables."
     },
     {
       "name": "Arvid Kahl",
       "handle": "@arvidkahl",
-      "views": 7067,
-      "url": "https://x.com/arvidkahl/status/2122412464700817588",
-      "created_at": "2026-11-16T19:32:18.000Z",
-      "hook": "This is your agentic engineering code without proper testing and verification.",
-      "text": "This is your agentic engineering code without proper testing and verification.\n\nRaw slop, clearly released without someone checking.\n\nThis isn't news to people who work in professional settings. Outcomes are only as good as our capacity to verify and improve them. https://t.co/tuIrV2yDFI",
+      "views": 16810,
+      "url": "https://x.com/arvidkahl/status/2122877927368880392",
+      "created_at": "2026-11-18T02:21:53.000Z",
+      "hook": "Will you buy Anthropic shares?",
+      "text": "Will you buy Anthropic shares?",
+      "highlight": true,
+      "quote_post": false
+    },
+    {
+      "name": "Codie Sanchez",
+      "handle": "@Codie_Sanchez",
+      "views": 15879,
+      "url": "https://x.com/Codie_Sanchez/status/2123151308530094409",
+      "created_at": "2026-11-18T20:28:12.000Z",
+      "hook": "You don’t need to work harder. ",
+      "text": "You don’t need to work harder. \n\nYou need to be more ruthless about what you work on. https://t.co/Gv4wjNFtK9",
+      "highlight": true,
+      "quote_post": false
+    },
+    {
+      "name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 9607,
+      "url": "https://x.com/tdinh_me/status/2123253343426670967",
+      "created_at": "2026-11-19T03:13:39.000Z",
+      "hook": "Having so much fun but also extremely productive at Stripe Residency Bali!!! https://t.co/YCwNtVPVOO",
+      "text": "Having so much fun but also extremely productive at Stripe Residency Bali!!! https://t.co/YCwNtVPVOO",
+      "highlight": false,
+      "quote_post": false
+    },
+    {
+      "name": "Shopify",
+      "handle": "@Shopify",
+      "views": 7084,
+      "url": "https://x.com/Shopify/status/2123054940839203016",
+      "created_at": "2026-11-18T14:05:17.000Z",
+      "hook": "Tidying up my store like Harley is about to shop it. Because he is. https://t.co/WkUjEORlho",
+      "text": "Tidying up my store like Harley is about to shop it. Because he is. https://t.co/WkUjEORlho",
       "highlight": false,
       "quote_post": false
     }
   ],
-  "hits_count": 7,
+  "hits_count": 10,
   "patterns": [
     "\"Underrated sign of...\" one-liner",
+    "\"it just comes down to three things\" list",
     "numbered lessons list (1/ 2/ 3/)",
     "one-line yes/no question",
-    "three-line parallel aphorism",
-    "contrarian opener (\"I regret to inform you\")"
+    "short relaunch line (\"Same merch. Now more fun.\")"
   ],
   "virals": [],
   "outsiders": [],
   "outsiders_count": 0,
-  "virals_narrative": "Codie Sanchez led again: \"Underrated sign of a high performer... they hate small talk\" reached 90K in about 12 hours, and an Ex-Amazon VP lessons list hit 40K. Arvid Kahl's one-line \"Will you buy Anthropic shares?\" neared 10K overnight. Square posted one original under 5K; Shopify, Pat Walls and Tony Dinh had nothing over 5K in the window. No niche vendor post cleared 5K overnight; the artist alley 'unpopular opinions' debate is the busiest vendor topic (top post about 4.6K). Competitors: BuildersBenchRe's only post was yesterday's $2.99 invoice ad (2 views); HipopMarkets and BoothKeeper posted nothing.",
+  "virals_narrative": "Codie Sanchez kept the lead: \"Underrated sign of a high performer\" passed 116K, and the new \"Run a business long enough... three things\" list reached 47K in about 13 hours. Shopify's merch-store relaunch (\"Same merch. Now more fun.\") hit 21.5K, Arvid Kahl's one-line Anthropic question 16.8K, and Tony Dinh's Stripe Residency post 9.6K overnight. No niche vendor post cleared 5K; the artist alley hot-take debate is still the busiest vendor topic (top recent post about 4.7K). Competitors: BuildersBenchRe posted a $9.99 message-pack ad and service-business replies overnight (2 views each); HipopMarkets and BoothKeeper posted nothing.",
   "virals_target": 5,
   "virals_window": "last ~10h",
   "no_hits": [
     {
       "handle": "@Square",
       "reason": "best post under 5,000 views",
-      "max_views": 2530
-    },
-    {
-      "handle": "@Shopify",
-      "reason": "no originals in window",
-      "max_views": null
+      "max_views": 2934
     },
     {
       "handle": "@thepatwalls",
-      "reason": "no originals in window",
-      "max_views": null
-    },
-    {
-      "handle": "@tdinh_me",
       "reason": "no originals in window",
       "max_views": null
     },
@@ -161,49 +184,49 @@
     },
     {
       "handle": "@BuildersBenchRe",
-      "reason": "competitor; best post under 5,000 views",
-      "max_views": 2
+      "reason": "competitor; no originals in window",
+      "max_views": null
     }
   ],
   "day_roster": [
     {
       "handle": "@Codie_Sanchez",
       "name": "Codie Sanchez",
-      "views": 90329,
-      "total_views": 269824,
+      "views": 116267,
+      "total_views": 295133,
+      "hit": true
+    },
+    {
+      "handle": "@Shopify",
+      "name": "Shopify",
+      "views": 21502,
+      "total_views": 28586,
       "hit": true
     },
     {
       "handle": "@arvidkahl",
       "name": "Arvid Kahl",
-      "views": 9947,
-      "total_views": 20652,
+      "views": 16810,
+      "total_views": 21205,
+      "hit": true
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "views": 9607,
+      "total_views": 9607,
       "hit": true
     },
     {
       "handle": "@Square",
       "name": "Square",
-      "views": 2530,
-      "total_views": 2530,
-      "hit": false
-    },
-    {
-      "handle": "@Shopify",
-      "name": "Shopify",
-      "views": 0,
-      "total_views": 0,
+      "views": 2934,
+      "total_views": 2934,
       "hit": false
     },
     {
       "handle": "@thepatwalls",
       "name": "Pat Walls",
-      "views": 0,
-      "total_views": 0,
-      "hit": false
-    },
-    {
-      "handle": "@tdinh_me",
-      "name": "Tony Dinh",
       "views": 0,
       "total_views": 0,
       "hit": false
@@ -227,9 +250,9 @@
     "vs_10k": "pending"
   },
   "previous_day": {
-    "date": "2026-11-17",
-    "hits_count": 9,
-    "total_views": 525468
+    "date": "2026-11-18",
+    "hits_count": 7,
+    "total_views": 283033
   },
   "follower_goal": {
     "handle": "@CraftDeskApp",
@@ -241,14 +264,14 @@
     "target_date": "2026-11-30"
   },
   "leaderboards": {
-    "as_of": "2026-11-18",
+    "as_of": "2026-11-19",
     "tracking_start": "2026-10-25",
     "days_included": [
-      "2026-11-12",
       "2026-11-13",
       "2026-11-16",
       "2026-11-17",
-      "2026-11-18"
+      "2026-11-18",
+      "2026-11-19"
     ],
     "month_days_included": [
       "2026-11-02",
@@ -263,49 +286,50 @@
       "2026-11-13",
       "2026-11-16",
       "2026-11-17",
-      "2026-11-18"
+      "2026-11-18",
+      "2026-11-19"
     ],
     "week": {
-      "label": "Rolling week · Nov 12–Nov 18",
+      "label": "Rolling week · Nov 13–Nov 19",
       "range": [
-        "2026-11-12",
-        "2026-11-18"
+        "2026-11-13",
+        "2026-11-19"
       ],
       "entries": [
         {
           "handle": "@Shopify",
           "name": "Shopify",
-          "hits": 3,
+          "hits": 4,
           "days": 3,
           "best": 4010725,
-          "views": 4034712,
+          "views": 4050776,
           "is_you": false
         },
         {
           "handle": "@Codie_Sanchez",
           "name": "Codie Sanchez",
-          "hits": 25,
+          "hits": 28,
           "days": 5,
           "best": 323488,
-          "views": 1555310,
-          "is_you": false
-        },
-        {
-          "handle": "@tdinh_me",
-          "name": "Tony Dinh",
-          "hits": 8,
-          "days": 4,
-          "best": 15205,
-          "views": 75024,
+          "views": 1665003,
           "is_you": false
         },
         {
           "handle": "@arvidkahl",
           "name": "Arvid Kahl",
-          "hits": 8,
+          "hits": 9,
+          "days": 5,
+          "best": 16810,
+          "views": 86846,
+          "is_you": false
+        },
+        {
+          "handle": "@tdinh_me",
+          "name": "Tony Dinh",
+          "hits": 7,
           "days": 4,
-          "best": 14992,
-          "views": 70036,
+          "best": 15205,
+          "views": 64403,
           "is_you": false
         },
         {
@@ -323,43 +347,43 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-18"
+        "2026-11-19"
       ],
       "entries": [
         {
           "handle": "@Shopify",
           "name": "Shopify",
-          "hits": 7,
-          "days": 6,
+          "hits": 9,
+          "days": 7,
           "best": 4010725,
-          "views": 4152787,
+          "views": 4181373,
           "is_you": false
         },
         {
           "handle": "@Codie_Sanchez",
           "name": "Codie Sanchez",
-          "hits": 93,
-          "days": 13,
+          "hits": 99,
+          "days": 14,
           "best": 371532,
-          "views": 4527101,
+          "views": 4822234,
           "is_you": false
         },
         {
           "handle": "@tdinh_me",
           "name": "Tony Dinh",
-          "hits": 34,
-          "days": 10,
+          "hits": 35,
+          "days": 11,
           "best": 59937,
-          "views": 491938,
+          "views": 501545,
           "is_you": false
         },
         {
           "handle": "@arvidkahl",
           "name": "Arvid Kahl",
-          "hits": 37,
-          "days": 12,
+          "hits": 38,
+          "days": 13,
           "best": 48743,
-          "views": 377749,
+          "views": 394559,
           "is_you": false
         },
         {
