@@ -1,8 +1,8 @@
 {
-  "title": "Daily X digest for @CraftDeskApp · 2026-11-25",
-  "date": "2026-11-25",
+  "title": "Daily X digest for @CraftDeskApp · 2026-11-26",
+  "date": "2026-11-26",
   "timezone": "America/New_York",
-  "updated": "2026-11-25T06:45:00-05:00",
+  "updated": "2026-11-26T06:40:00-05:00",
   "brand_title": "CraftDesk X Virality Score",
   "brand_handle": "@CraftDeskApp",
   "operator": {
@@ -28,38 +28,49 @@
     "no_hits_reasons": true,
     "marker_class": "xvs-dash-2026"
   },
-  "window": "originals posted ~2026-11-23 06:20 ET to 2026-11-25 06:20 ET (~48h)",
+  "window": "originals posted ~2026-11-24 06:24 ET to 2026-11-26 06:24 ET (~48h)",
   "min_views": 5000,
   "star_views": 10000,
   "hits": [
     {
       "name": "Codie Sanchez",
       "handle": "@Codie_Sanchez",
-      "views": 92364,
-      "url": "https://x.com/Codie_Sanchez/status/2124874200481464521",
-      "created_at": "2026-11-23T14:34:22.000Z",
-      "hook": "Is paper mail making a comeback?",
-      "text": "Is paper mail making a comeback?\n\nThis lady makes almost $60k a month mailing physical letters.\n\nShe started with a $50 printer and leftover stamps from weddings. Had ~50 subscribers in her first month.\n\nThen one TikTok went viral and it took off...\n\nBy month 3 she was making https://t.co/nS77hfZqvJ",
+      "views": 166818,
+      "url": "https://x.com/Codie_Sanchez/status/2125687998805152181",
+      "created_at": "2026-11-25T20:28:06.000Z",
+      "hook": "Capitalism has pulled more people out of poverty than any system ever created.",
+      "text": "Capitalism has pulled more people out of poverty than any system ever created.\n\nStop pretending it’s evil.",
       "highlight": true,
       "quote_post": false
     },
     {
       "name": "Codie Sanchez",
       "handle": "@Codie_Sanchez",
-      "views": 53422,
+      "views": 69394,
       "url": "https://x.com/Codie_Sanchez/status/2125325609773543607",
       "created_at": "2026-11-24T20:28:06.000Z",
       "hook": "You win in business by being ok with people:",
       "text": "You win in business by being ok with people:\n\n- stealing from you\n- betraying you\n- suing you\n- wishing you’d fail",
       "highlight": true,
       "quote_post": false,
-      "draft_en": "Weekend table-setup invite for Black Friday / Small Business Saturday markets (Post B in the Nov 25 digest).",
+      "draft_en": "Small Business Saturday table-setup invite (Post B in the Nov 26 digest).",
       "video_tip": "Optional ink sketch of a simple market table."
+    },
+    {
+      "name": "Arvid Kahl",
+      "handle": "@arvidkahl",
+      "views": 54614,
+      "url": "https://x.com/arvidkahl/status/2125634830054408224",
+      "created_at": "2026-11-25T16:56:50.000Z",
+      "hook": "So, in their API blog post, https://t.co/l1YphVD4yK, on rewriting their API in Rust without Rust devs (!), @AnthropicAI ",
+      "text": "So, in their API blog post, https://t.co/l1YphVD4yK, on rewriting their API in Rust without Rust devs (!), @AnthropicAI shows this API traffic graph.\n\nHoly moly. Where will the compute to sustain these traffic levels come from? https://t.co/aKMJB43tcA",
+      "highlight": true,
+      "quote_post": false
     },
     {
       "name": "Codie Sanchez",
       "handle": "@Codie_Sanchez",
-      "views": 44928,
+      "views": 53876,
       "url": "https://x.com/Codie_Sanchez/status/2125249187927171282",
       "created_at": "2026-11-24T15:24:26.000Z",
       "hook": "I asked Guillermo Rauch (CEO of @vercel, $10 billion valuation) what every business owner should be doing with AI right ",
@@ -70,31 +81,7 @@
     {
       "name": "Codie Sanchez",
       "handle": "@Codie_Sanchez",
-      "views": 42812,
-      "url": "https://x.com/Codie_Sanchez/status/2124911658225033675",
-      "created_at": "2026-11-23T17:03:12.000Z",
-      "hook": "The fastest way to stay poor is doing what everyone else does. Betting on sports. Scrolling social media. Watching the s",
-      "text": "The fastest way to stay poor is doing what everyone else does. Betting on sports. Scrolling social media. Watching the stock market. Be careful doing what’s popular. Your bank account might end up looking like everyone else’s too.",
-      "highlight": true,
-      "quote_post": false,
-      "draft_en": "Which-version: one $800 con table vs four $200 shows (Post A in the Nov 25 digest).",
-      "video_tip": "Optional ink sketch of one big table vs four small ones."
-    },
-    {
-      "name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 39268,
-      "url": "https://x.com/arvidkahl/status/2124944229445337553",
-      "created_at": "2026-11-23T19:12:38.000Z",
-      "hook": "SaaS companies in these price ranges don't sell software. They sell stability. They sell assurance that when a complianc",
-      "text": "SaaS companies in these price ranges don't sell software. They sell stability. They sell assurance that when a compliance situation arises (like a legal dispute, an audit, or an acquisition), all contractually relevant promises are kept.\n\nYou pay for reliable expectations. https://t.co/dlkqse0wV5",
-      "highlight": true,
-      "quote_post": false
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 23979,
+      "views": 27313,
       "url": "https://x.com/Codie_Sanchez/status/2125274053447455107",
       "created_at": "2026-11-24T17:03:14.000Z",
       "hook": "Jensen Huang on if he'd start Nvidia again knowing how hard it would be:",
@@ -103,31 +90,33 @@
       "quote_post": false
     },
     {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 23273,
-      "url": "https://x.com/Codie_Sanchez/status/2124963220309921912",
-      "created_at": "2026-11-23T20:28:06.000Z",
-      "hook": "Do the work. Get in the right rooms. Keep going longer than feels reasonable.",
-      "text": "Do the work. Get in the right rooms. Keep going longer than feels reasonable.\n\nAnd one day this happens: https://t.co/Pjs972shmk",
+      "name": "Square",
+      "handle": "@Square",
+      "views": 22532,
+      "url": "https://x.com/Square/status/2125613889970925951",
+      "created_at": "2026-11-25T15:33:38.000Z",
+      "hook": "Show some love to your local spots this holiday season — and get bitcoin back. ⚡️",
+      "text": "Show some love to your local spots this holiday season — and get bitcoin back. ⚡️\n\nGet 5% back in bitcoin when you pay with bitcoin or dollars over Lightning with @CashApp at participating Square sellers.\n\nFind local businesses on the Bitcoin Map in Cash App. https://t.co/RVZm6ECANe",
       "highlight": true,
-      "quote_post": false
+      "quote_post": false,
+      "draft_en": "Black Friday first-hour vs last-hour which-version (Post A in the Nov 26 digest).",
+      "video_tip": "Optional ink sketch of a clock over a market table."
     },
     {
-      "name": "Tony Dinh",
-      "handle": "@tdinh_me",
-      "views": 22827,
-      "url": "https://x.com/tdinh_me/status/2125147359948714486",
-      "created_at": "2026-11-24T08:39:48.000Z",
-      "hook": "Every AI lab will release their software factory soon. Everyone will be able to create on-demand personalized software a",
-      "text": "Every AI lab will release their software factory soon. Everyone will be able to create on-demand personalized software and UI.",
+      "name": "Codie Sanchez",
+      "handle": "@Codie_Sanchez",
+      "views": 19643,
+      "url": "https://x.com/Codie_Sanchez/status/2125636442508427497",
+      "created_at": "2026-11-25T17:03:14.000Z",
+      "hook": "You should spend 10x more time selling your existing customers than looking for new ones.",
+      "text": "You should spend 10x more time selling your existing customers than looking for new ones.\n\nWe had 135 advisory calls with $500k-$25M/year businesses in October. \n\nI was shocked how many had never called an old customer back. Some had lists of 600, 1000, even 3000 people they",
       "highlight": true,
       "quote_post": false
     },
     {
       "name": "Shopify",
       "handle": "@Shopify",
-      "views": 12596,
+      "views": 14774,
       "url": "https://x.com/Shopify/status/2125229652684026107",
       "created_at": "2026-11-24T14:06:48.000Z",
       "hook": "There’s more",
@@ -138,105 +127,61 @@
     {
       "name": "Arvid Kahl",
       "handle": "@arvidkahl",
-      "views": 11122,
-      "url": "https://x.com/arvidkahl/status/2124871023786897790",
-      "created_at": "2026-11-23T14:21:44.000Z",
-      "hook": "sure https://t.co/vddtMiofDA",
-      "text": "sure https://t.co/vddtMiofDA",
-      "highlight": true,
-      "quote_post": false
-    },
-    {
-      "name": "Tony Dinh",
-      "handle": "@tdinh_me",
-      "views": 8494,
-      "url": "https://x.com/tdinh_me/status/2124828081227759975",
-      "created_at": "2026-11-23T11:31:06.000Z",
-      "hook": "Wow, if the lyrics is written by AI I would say AGI is here. https://t.co/6UQBMxnFZp",
-      "text": "Wow, if the lyrics is written by AI I would say AGI is here. https://t.co/6UQBMxnFZp",
-      "highlight": false,
-      "quote_post": false
-    },
-    {
-      "name": "Codie Sanchez",
-      "handle": "@Codie_Sanchez",
-      "views": 7867,
-      "url": "https://x.com/Codie_Sanchez/status/2124956382856089992",
-      "created_at": "2026-11-23T20:00:56.000Z",
-      "hook": "Here's the full video if you're curious: https://t.co/nPJ4v2H9wL",
-      "text": "Here's the full video if you're curious: https://t.co/nPJ4v2H9wL",
-      "highlight": false,
-      "quote_post": false
-    },
-    {
-      "name": "Tony Dinh",
-      "handle": "@tdinh_me",
-      "views": 7612,
-      "url": "https://x.com/tdinh_me/status/2125075561727115327",
-      "created_at": "2026-11-24T03:54:30.000Z",
-      "hook": "Here's what I've been working on during the Stripe Residency program in Bali 2026 🥰",
-      "text": "Here's what I've been working on during the Stripe Residency program in Bali 2026 🥰\n\nBig thanks to @stripe @caitbhri @JessLozanoS for the amazing event! https://t.co/NF2uWgUzsG",
+      "views": 7598,
+      "url": "https://x.com/arvidkahl/status/2125364425037160656",
+      "created_at": "2026-11-24T23:02:20.000Z",
+      "hook": "🪦 code reusability. ",
+      "text": "🪦 code reusability. \n\nI wonder, what other “traditional” coding concepts will we see being challenged by using agentic coding?\n\nCommenting? Linting? Tests being optional? https://t.co/YbPwaBVwxH",
       "highlight": false,
       "quote_post": false
     },
     {
       "name": "Arvid Kahl",
       "handle": "@arvidkahl",
-      "views": 6733,
-      "url": "https://x.com/arvidkahl/status/2124887913209229595",
-      "created_at": "2026-11-23T15:28:51.000Z",
-      "hook": "Put a leather jacket on those markets and they go brrrr.",
-      "text": "Put a leather jacket on those markets and they go brrrr.",
-      "highlight": false,
-      "quote_post": false
-    },
-    {
-      "name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 5544,
-      "url": "https://x.com/arvidkahl/status/2124914881463718195",
-      "created_at": "2026-11-23T17:16:01.000Z",
-      "hook": "As a Canadian who has been using Matic (we call him Matthias in our household), this is PERFECT timing. ",
-      "text": "As a Canadian who has been using Matic (we call him Matthias in our household), this is PERFECT timing. \n\n(Not paid for this, just a fan.)\n\nSignificantly better at understanding our house layout and extremely good with pets and kids. Our 10mo boy was wrestling with Matthias https://t.co/ctK2MBjkTX",
-      "highlight": false,
-      "quote_post": false
-    },
-    {
-      "name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 5447,
+      "views": 6821,
       "url": "https://x.com/arvidkahl/status/2125314513037631998",
       "created_at": "2026-11-24T19:44:00.000Z",
       "hook": "In a few years' time, we'll go \"Claude Maximus Ultra Plus 19.5, create a photorealistic, fully animated human cell visua",
       "text": "In a few years' time, we'll go \"Claude Maximus Ultra Plus 19.5, create a photorealistic, fully animated human cell visualization for an 8-year-old,\" and it will teach our children significantly better, with more patience and specificity, than what they could get in any classroom.",
       "highlight": false,
       "quote_post": false
+    },
+    {
+      "name": "Arvid Kahl",
+      "handle": "@arvidkahl",
+      "views": 5129,
+      "url": "https://x.com/arvidkahl/status/2125294154913890564",
+      "created_at": "2026-11-24T18:23:07.000Z",
+      "hook": "🥶 https://t.co/Vc6AoZVZSj",
+      "text": "🥶 https://t.co/Vc6AoZVZSj",
+      "highlight": false,
+      "quote_post": false
     }
   ],
-  "hits_count": 16,
+  "hits_count": 11,
   "patterns": [
-    "tiny-start money story ($50 printer to $60K/month)",
+    "contrarian one-liner (\"Stop pretending it's evil\")",
     "\"You win in business by being ok with...\" bullet list",
-    "\"X don't sell Y. They sell Z.\" reframe",
-    "borrowed expert quote (Guillermo Rauch, Jensen Huang)",
-    "\"Every X will... soon\" prediction"
+    "borrowed expert list (\"6 of his ideas you can steal\")",
+    "10x ratio backed by real call count (135 advisory calls)",
+    "holiday 'shop local' framing (Square)"
   ],
   "virals": [],
   "outsiders": [],
   "outsiders_count": 0,
-  "virals_narrative": "Codie Sanchez dominated again: the paper-mail story reached 92.4K, 'You win in business by being ok with people...' 53.4K in about 10 hours, and her Guillermo Rauch AI list 44.9K. Arvid Kahl's 'they sell stability' post reached 39.3K, Tony Dinh's software-factory prediction 22.8K, and Shopify's Shop Pay on Muse post 12.6K. Square posted one original under 5K; Pat Walls posted none. No niche vendor post cleared 5K; artist alley table prices ($600-$800) were the loudest vendor topic overnight. Competitors HipopMarkets, BoothKeeper and BuildersBenchRe posted nothing in the window.",
+  "virals_narrative": "Codie Sanchez dominated again: her capitalism one-liner reached 166.8K, 'You win in business by being ok with people...' 69.4K and her Guillermo Rauch AI list 53.9K. Arvid Kahl's Anthropic API-graph post reached 54.6K. Square's holiday shop-local bitcoin-back post hit 22.5K and Shopify's Shop Pay on Muse post 14.8K. Tony Dinh peaked at 4.0K; Pat Walls posted no originals. No niche vendor post cleared 5K on a quiet Thanksgiving morning; artist alley table costs and Black Friday / Small Business Saturday market announcements were the main vendor topics. Competitors HipopMarkets, BoothKeeper and BuildersBenchRe posted nothing in the window.",
   "virals_target": 5,
   "virals_window": "last ~12h",
   "no_hits": [
     {
-      "handle": "@Square",
-      "reason": "best post under 5,000 views",
-      "max_views": 2375
-    },
-    {
       "handle": "@thepatwalls",
       "reason": "no originals in window",
       "max_views": null
+    },
+    {
+      "handle": "@tdinh_me",
+      "reason": "best post under 5,000 views",
+      "max_views": 4026
     },
     {
       "handle": "@HipopMarkets",
@@ -258,36 +203,36 @@
     {
       "handle": "@Codie_Sanchez",
       "name": "Codie Sanchez",
-      "views": 92364,
-      "total_views": 288645,
+      "views": 166818,
+      "total_views": 337044,
       "hit": true
     },
     {
       "handle": "@arvidkahl",
       "name": "Arvid Kahl",
-      "views": 39268,
-      "total_views": 89475,
-      "hit": true
-    },
-    {
-      "handle": "@tdinh_me",
-      "name": "Tony Dinh",
-      "views": 22827,
-      "total_views": 40265,
-      "hit": true
-    },
-    {
-      "handle": "@Shopify",
-      "name": "Shopify",
-      "views": 12596,
-      "total_views": 12596,
+      "views": 54614,
+      "total_views": 99635,
       "hit": true
     },
     {
       "handle": "@Square",
       "name": "Square",
-      "views": 2375,
-      "total_views": 2375,
+      "views": 22532,
+      "total_views": 26303,
+      "hit": true
+    },
+    {
+      "handle": "@Shopify",
+      "name": "Shopify",
+      "views": 14774,
+      "total_views": 14774,
+      "hit": true
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "views": 4026,
+      "total_views": 9274,
       "hit": false
     },
     {
@@ -316,9 +261,9 @@
     "vs_10k": "pending"
   },
   "previous_day": {
-    "date": "2026-11-24",
-    "hits_count": 13,
-    "total_views": 402106
+    "date": "2026-11-25",
+    "hits_count": 16,
+    "total_views": 408288
   },
   "follower_goal": {
     "handle": "@CraftDeskApp",
@@ -330,14 +275,14 @@
     "target_date": "2026-11-30"
   },
   "leaderboards": {
-    "as_of": "2026-11-25",
+    "as_of": "2026-11-26",
     "tracking_start": "2026-10-25",
     "days_included": [
-      "2026-11-19",
       "2026-11-20",
       "2026-11-23",
       "2026-11-24",
-      "2026-11-25"
+      "2026-11-25",
+      "2026-11-26"
     ],
     "month_days_included": [
       "2026-11-02",
@@ -357,58 +302,59 @@
       "2026-11-20",
       "2026-11-23",
       "2026-11-24",
-      "2026-11-25"
+      "2026-11-25",
+      "2026-11-26"
     ],
     "week": {
-      "label": "Rolling week · Nov 19–Nov 25",
+      "label": "Rolling week · Nov 20–Nov 26",
       "range": [
-        "2026-11-19",
-        "2026-11-25"
+        "2026-11-20",
+        "2026-11-26"
       ],
       "entries": [
         {
           "handle": "@Codie_Sanchez",
           "name": "Codie Sanchez",
-          "hits": 32,
+          "hits": 31,
           "days": 5,
           "best": 230136,
-          "views": 1743800,
+          "views": 1785711,
           "is_you": false
         },
         {
           "handle": "@arvidkahl",
           "name": "Arvid Kahl",
-          "hits": 16,
+          "hits": 19,
           "days": 5,
-          "best": 39268,
-          "views": 154034,
+          "best": 54614,
+          "views": 211386,
           "is_you": false
         },
         {
           "handle": "@Shopify",
           "name": "Shopify",
-          "hits": 5,
+          "hits": 4,
           "days": 3,
           "best": 32191,
-          "views": 81246,
+          "views": 67434,
           "is_you": false
         },
         {
           "handle": "@Square",
           "name": "Square",
-          "hits": 1,
-          "days": 1,
+          "hits": 2,
+          "days": 2,
           "best": 28449,
-          "views": 28449,
+          "views": 50981,
           "is_you": false
         },
         {
           "handle": "@tdinh_me",
           "name": "Tony Dinh",
-          "hits": 10,
-          "days": 5,
+          "hits": 9,
+          "days": 4,
           "best": 22827,
-          "views": 97707,
+          "views": 88100,
           "is_you": false
         }
       ]
@@ -417,25 +363,25 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-25"
+        "2026-11-26"
       ],
       "entries": [
         {
           "handle": "@Shopify",
           "name": "Shopify",
-          "hits": 12,
-          "days": 9,
+          "hits": 13,
+          "days": 10,
           "best": 4010725,
-          "views": 4234033,
+          "views": 4248807,
           "is_you": false
         },
         {
           "handle": "@Codie_Sanchez",
           "name": "Codie Sanchez",
-          "hits": 125,
-          "days": 18,
+          "hits": 130,
+          "days": 19,
           "best": 371532,
-          "views": 6270901,
+          "views": 6607945,
           "is_you": false
         },
         {
@@ -450,19 +396,19 @@
         {
           "handle": "@arvidkahl",
           "name": "Arvid Kahl",
-          "hits": 53,
-          "days": 17,
-          "best": 48743,
-          "views": 531783,
+          "hits": 57,
+          "days": 18,
+          "best": 54614,
+          "views": 605945,
           "is_you": false
         },
         {
           "handle": "@Square",
           "name": "Square",
-          "hits": 3,
-          "days": 3,
+          "hits": 4,
+          "days": 4,
           "best": 29074,
-          "views": 65083,
+          "views": 87615,
           "is_you": false
         },
         {
